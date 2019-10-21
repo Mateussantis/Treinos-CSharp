@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\bin\Debug\netcoreapp2.2\DesafioDupla.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\bin\Debug\netcoreapp2.2\DesafioDupla.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\bin\Debug\netcoreapp2.2\DesafioDupla.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\bin\Debug\netcoreapp2.2\DesafioDupla.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\bin\Debug\netcoreapp2.2\DesafioDupla.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\obj\Debug\netcoreapp2.2\DesafioDupla.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\obj\Debug\netcoreapp2.2\DesafioDupla.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\obj\Debug\netcoreapp2.2\DesafioDupla.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\obj\Debug\netcoreapp2.2\DesafioDupla.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\obj\Debug\netcoreapp2.2\DesafioDupla.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\DesafioDupla\obj\Debug\netcoreapp2.2\DesafioDupla.pdb
